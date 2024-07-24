@@ -24,7 +24,7 @@ global.autoRecord =  true
 global.autoreact =  true
 global.onlygroup =  false
 global.onlypc =  false
-global.welcome = true
+global.welcome = false
 global.autoBlock = false
  
 /*REPLY MESSAGE*/
